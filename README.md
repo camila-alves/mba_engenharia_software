@@ -1,2 +1,2 @@
-# mba_engenharia_software
+# MBA - Software Engineering Course
 Scripts for executing the TCC of the Software Engineering course: Software Testing in Bioinformatics: case study in DNA calculation tools
